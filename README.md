@@ -17,7 +17,8 @@ I have developed a chatting app to use more than 2 person are chat together.
 
 
 ## Screenshots:
-![Screenshot 2023-09-02 234805](https://github.com/aman8440/Chat-app/assets/82088006/d254fbfe-692b-4600-abc9-1aa92e75889c)
-![Screenshot 2023-09-02 234837](https://github.com/aman8440/Chat-app/assets/82088006/6d4288de-6a95-4e5a-bf14-65ff7471f496)
-![Screenshot 2023-09-02 234926](https://github.com/aman8440/Chat-app/assets/82088006/1e519df8-11ac-46d0-8b25-275d4e8195d9)
+![Screenshot 2023-09-02 234805](https://github.com/aman8440/Chat-app/assets/82088006/3b01c4c3-633e-47a3-8387-d50168d91bd9)
+![Screenshot 2023-09-02 234837](https://github.com/aman8440/Chat-app/assets/82088006/e3d109c6-47b8-4bdc-a76d-2d98e17ebd3a)
+![Screenshot 2023-09-02 234926](https://github.com/aman8440/Chat-app/assets/82088006/8b5214bc-cbfe-44a5-b9e4-806ff74cb1e1)
+
 
