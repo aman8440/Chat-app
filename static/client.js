@@ -1,6 +1,6 @@
 require("dotenv").config();
 const  src="/socket.io/socket.io.js";
-const socket = io(process.env.PORT || http://localhost:5000);
+const socket = io(process.env.URL);
 
 // Get DOM elements in respective Js variables
 const form = document.getElementById('send-container');
