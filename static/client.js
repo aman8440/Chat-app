@@ -21,7 +21,7 @@ const addEntry = ({ user, message }, you) => {
     dom.feed.appendChild(entry);
 };
 // Audio that will play on receiving messages
-var audio = new Audio('tune.mp3');
+var audio = new Audio('./tune.mp3');
 
 // Function which will append event info to the container
 const append = (message, position)=>{
