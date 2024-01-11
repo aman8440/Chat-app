@@ -24,15 +24,19 @@ const addEntry = ({ user, message }, you) => {
 var audio = new Audio('tune.mp3');
 
 // Function which will append event info to the contaner
-const append = (message, position)=>{
+const messageContainer = document.getElementById('messageContainer'); 
+// Function which will append event info to the container
+const append = (message, position) => {
     const messageElement = document.createElement('div');
     messageElement.innerText = message;
     messageElement.classList.add('message');
     messageElement.classList.add(position);
-    messageContainer.append(messageElement);
-    if(position =='left'){ 
+    messageContainer.appendChild(messageElement); // Change 'append' to 'appendChild'
+    
+    if (position === 'left') {
         audio.play();
     }
+};
 }
 
 
