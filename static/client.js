@@ -37,7 +37,7 @@ const append = (message, position) => {
         audio.play();
     }
 };
-}
+
 
 
 // Ask new user for his/her name and let the server know
